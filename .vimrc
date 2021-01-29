@@ -4,5 +4,6 @@ set nowrap
 set hlsearch
 set number
 set backspace=indent,eol,start
+set visualbell
 
 syntax on
